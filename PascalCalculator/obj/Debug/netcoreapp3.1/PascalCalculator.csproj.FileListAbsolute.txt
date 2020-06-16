@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.exe
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.deps.json
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.dll
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\bin\Debug\netcoreapp3.1\PascalCalculator.pdb
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.dll
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.pdb
+C:\Users\TOSHIBA\source\repos\PascalCalculator\PascalCalculator\obj\Debug\netcoreapp3.1\PascalCalculator.genruntimeconfig.cache
